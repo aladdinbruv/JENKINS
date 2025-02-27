@@ -1,12 +1,14 @@
 {
-  "name": "tp5",
+  "name": "jenkins-test-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic Node.js app for Jenkins testing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests specified\" && exit 0",
+    "build": "echo \"No build specified\" && exit 0"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
