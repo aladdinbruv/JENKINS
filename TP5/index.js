@@ -1,2 +1,2 @@
-console.log('Hello im aladdin :p');
+console.log('Hello im aladdin ');
 
